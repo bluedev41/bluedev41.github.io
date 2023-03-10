@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.db227e26.css",
+    "main.js": "/static/js/main.785e9d0d.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/pga.gif": "/static/media/pga.8f5d10a8fe428232ad38.gif",
+    "static/media/rosa.png": "/static/media/rosa.35441792ea674577c062.png",
+    "static/media/indagare.png": "/static/media/indagare.30c2f7a1216143b013ed.png",
+    "static/media/blancian.png": "/static/media/blancian.4fc5e57d7a6d1c07bbb5.png",
+    "static/media/scraper.png": "/static/media/scraper.038fed5e7e6367f7b0d7.png",
+    "static/media/seat.png": "/static/media/seat.f8f35664de9a56a5b950.png",
+    "static/media/about1.png": "/static/media/about1.5eb9c8f90730cfbe93fa.png",
+    "static/media/andrew.jpg": "/static/media/andrew.785248dac9a10bc0bca7.jpg",
+    "static/media/rappo.png": "/static/media/rappo.b7e036d27f6aa465447b.png",
+    "static/media/home-main.jpg": "/static/media/home-main.acba134f60a301de4b17.jpg",
+    "static/media/shop1.png": "/static/media/shop1.da03c75de857407322e7.png",
+    "static/media/mern_restaurant.png": "/static/media/mern_restaurant.d767d3a8554af8b31e0b.png",
+    "static/media/AndrewLi_fullstack.pdf": "/static/media/AndrewLi_fullstack.c064de7bea59637d76d9.pdf",
+    "static/media/home-bg.jpg": "/static/media/home-bg.7aaa9bbf2e903c2d3380.jpg",
+    "static/media/logo.jpg": "/static/media/logo.c588b8abde6bb680700c.jpg",
+    "static/media/nft-swap-sdk-banner.jpg": "/static/media/nft-swap-sdk-banner.d5a53779430aa169490a.jpg",
+    "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/index.html",
+    "main.db227e26.css.map": "/static/css/main.db227e26.css.map",
+    "main.785e9d0d.js.map": "/static/js/main.785e9d0d.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db227e26.css",
+    "static/js/main.785e9d0d.js"
+  ]
+}
